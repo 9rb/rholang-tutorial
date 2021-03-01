@@ -6083,9 +6083,9 @@ pretty-error@^2.0.2, pretty-error@^2.1.1:
     renderkid "^2.0.1"
     utila "~0.4"
 
-prismjs@^1.8.4, prismjs@~1.14.0:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.14.0.tgz#bbccfdb8be5d850d26453933cb50122ca0362ae0"
+prismjs@^1.23.0:
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.23.0.tgz#bbccfdb8be5d850d26453933cb50122ca0362ae0"
   optionalDependencies:
     clipboard "^2.0.0"
 
@@ -6485,7 +6485,7 @@ react-syntax-highlighter@^7.0.0:
     babel-runtime "^6.18.0"
     highlight.js "~9.12.0"
     lowlight "~1.9.1"
-    prismjs "^1.8.4"
+    prismjs "^1.23.0"
     refractor "^2.0.0"
 
 react-universal-component@^4.0.0:
@@ -6579,7 +6579,7 @@ refractor@^2.0.0:
   resolved "https://registry.yarnpkg.com/refractor/-/refractor-2.4.0.tgz#32fdc855f10ce67228ae3ca5221a89a5e8c8455e"
   dependencies:
     hastscript "^3.1.0"
-    prismjs "~1.14.0"
+    prismjs "^1.23.0"
 
 regenerate-unicode-properties@^8.2.0:
   version "8.2.0"
